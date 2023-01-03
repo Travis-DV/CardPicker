@@ -1,0 +1,22 @@
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\bin\Debug\cardpicker.exe.config
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\bin\Debug\cardpicker.exe
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\bin\Debug\cardpicker.pdb
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.AssemblyReference.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.Form1.resources
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.Properties.Resources.resources
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.GenerateResource.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.exe
+C:\Users\travis\OneDrive - Findley\Coding\vscode\c#\c#class\cardpicker\cardpicker\obj\Debug\cardpicker.pdb
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\bin\Debug\CardPicker.exe.config
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\bin\Debug\CardPicker.exe
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\bin\Debug\CardPicker.pdb
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.AssemblyReference.cache
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\CardPicker.Form1.resources
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\CardPicker.Properties.Resources.resources
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.GenerateResource.cache
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\cardpicker.csproj.CoreCompileInputs.cache
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\CardPicker.exe
+C:\Users\travis\Documents\GitHub\cardpicker\cardpicker\obj\Debug\CardPicker.pdb
